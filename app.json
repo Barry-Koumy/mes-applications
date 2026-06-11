@@ -15,4 +15,12 @@
     "icon": "https://www.bing.com/th/id/OSK.20bd5070cb6d70b41154c890ba0d8c64?w=310&h=200&c=8&rs=1&qlt=90&o=6&dpr=1.1&pid=3.1&rm=2",
     "url": "https://play.google.com/store/apps/details?id=com.ludo.king&pcampaignid=WS_games_home_windows_rfy_cluster"
   }
+  {
+    "id": "3",
+    "name": "Cheikh Maher Al-Muaiqly",
+    "description": "Le Coran complet par le Cheikh Maher.",
+    "longDescription": "Retrouvez la récitation émouvante du Cheikh Maher Al-Muaiqly, l'imam de la Mosquée sacrée de la Mecque. Inclut des fonctionnalités de recherche avancée.",
+    "icon": "https://th.bing.com/th/id/OIP.UZ33Vf-j3bselaCoU_Xk_AHaBL?w=347&h=59&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3",
+    "url": "https://sermoncentral.com/"
+  }
 ]
